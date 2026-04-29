@@ -19,29 +19,30 @@ Currently open to **Junior Fullstack Developer** roles and internships.
 
 ## 🛠 Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+<p align="center">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="SCSS" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" /></a>
+</p>
 
-### Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Sessions](https://img.shields.io/badge/Auth-Sessions%20%7C%20Cookies-4A5568?style=for-the-badge)
+<p align="center">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=yarn" alt="yarn" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jira" alt="Jira" /></a>
+  <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sanity" alt="Sanity" /></a>
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+<p align="center">
+  <strong>Also working with:</strong> REST API development, JWT authentication, Cookies/Sessions
+</p>
 
 ---
 
@@ -66,7 +67,7 @@ Information Technology (09/2024 - 05/2028)
 - GitHub: [@MaxiMGuc](https://github.com/MaxiMGuc)
 - Email: [maksym.huk@gmail.com](mailto:maksym.huk@gmail.com)
 - Telegram: [@maxim_guc](https://t.me/maxim_guc)
-- LinkedIn: *(add your LinkedIn URL here)*
+- LinkedIn: [maxim-guc-a65038305](https://www.linkedin.com/in/maxim-guc-a65038305)
 
 ---
 
