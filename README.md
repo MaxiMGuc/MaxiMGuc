@@ -1,9 +1,9 @@
 # Hi there, I'm Maxim Guc 👋
 
-### Junior Fullstack Developer (React + Go)
+### Junior Fullstack Developer (Web + Mobile)
 
-I build web applications with **React** on the frontend and **Go** on the backend.  
-I focus on responsive UI, clean REST APIs, and authentication flows (JWT/Cookies/Sessions).  
+I build modern web and mobile applications using **React, Next.js, React Native, and Go**.  
+I work with **Firebase, SQL, and Sanity CMS**, and focus on clean REST APIs and authentication flows (JWT/Cookies/Sessions).  
 Currently open to **Junior Fullstack Developer** roles and internships.
 
 ---
@@ -12,8 +12,9 @@ Currently open to **Junior Fullstack Developer** roles and internships.
 
 - 📍 **Location:** Chisinau, Moldova
 - 💼 **Experience:** Internship at Cedacri International (COBOL Developer, May 2023 - Aug 2023)
-- 🎯 **Goal:** Grow as a software engineer in real production teams
-- 🧠 **Approach:** Clean, maintainable code + continuous learning
+- 🧩 **Core Stack:** React, Next.js, React Native, Go, Firebase, SQL, Sanity
+- 🎯 **Focus:** Fullstack products with responsive UI, scalable backend logic, and smooth UX
+- 🧠 **Approach:** Clean, maintainable code, practical architecture, and continuous learning
 
 ---
 
