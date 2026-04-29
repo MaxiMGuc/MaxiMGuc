@@ -70,6 +70,18 @@ Information Technology (09/2024 - 05/2028)
 
 ---
 
+## 🚀 Featured Projects
+
+- **1) Avia Sales Univ App**  
+  Repo: [GitHub Repository](https://github.com/MaxiMGuc/avia-sales-univ-app) | Live: [Open Project](https://vercel.com/maximgucs-projects/avia-sales-univ-app)  
+  Web application for searching and viewing flight tickets. The interface is built with React, and the backend is currently being developed in C#. The project demonstrates fundamental frontend development skills and is gradually evolving into a full client-server application.
+
+- **2) NETPLAY E-Commerce**  
+  Repo: [GitHub Repository](https://github.com/MaxiMGuc/netplay-e-commerce) | Live: [Open Project](https://netplay-e-commerce.vercel.app/)  
+  Pet e-commerce web application with core online store functionality, including product catalog management and a user interface. The frontend is built with React, and Supabase is used for data storage and management. The project demonstrates practical skills in building full-scale web applications with a modern tech stack and client-server architecture.
+
+---
+
 ## 🤝 Contacts
 
 - GitHub: [@MaxiMGuc](https://github.com/MaxiMGuc)
@@ -77,10 +89,3 @@ Information Technology (09/2024 - 05/2028)
 - Telegram: [@maxim_guc](https://t.me/maxim_guc)
 - LinkedIn: [maxim-guc-a65038305](https://www.linkedin.com/in/maxim-guc-a65038305)
 
----
-
-## 📌 Optional Next Improvements
-
-- Add pinned project links with 1-2 line descriptions
-- Add portfolio/demo links
-- Add GitHub stats cards after repositories are updated
