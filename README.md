@@ -32,6 +32,8 @@ Currently open to **Junior Fullstack Developer** roles and internships.
 
 <p align="center">
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
@@ -41,7 +43,12 @@ Currently open to **Junior Fullstack Developer** roles and internships.
 </p>
 
 <p align="center">
-  <strong>Also working with:</strong> REST API development, JWT authentication, Cookies/Sessions
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" /></a>
+</p>
+
+<p align="center">
+  <strong>Also working with:</strong> REST API development, JWT authentication, Cookies/Sessions, SQL
 </p>
 
 ---
@@ -68,3 +75,11 @@ Information Technology (09/2024 - 05/2028)
 - Email: [maksym.huk@gmail.com](mailto:maksym.huk@gmail.com)
 - Telegram: [@maxim_guc](https://t.me/maxim_guc)
 - LinkedIn: [maxim-guc-a65038305](https://www.linkedin.com/in/maxim-guc-a65038305)
+
+---
+
+## 📌 Optional Next Improvements
+
+- Add pinned project links with 1-2 line descriptions
+- Add portfolio/demo links
+- Add GitHub stats cards after repositories are updated
